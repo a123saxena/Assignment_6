@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Anita",
+    "DOB": "1999-05-15",
+    "Height": 175,
+    "City": "Indore",
+    "State": "MP"
+  },
+  {
+    "Name": "Shivam",
+    "DOB": "1995-08-22",
+    "Height": 180,
+    "City": "Chennai",
+    "State": "TN"
+  },
+  {
+    "Name": "Sneha",
+    "DOB": "1997-03-10",
+    "Height": 168,
+    "City": "Jaipur",
+    "State": "RJ"
+  },
+  {
+    "Name": "Sandeep",
+    "DOB": "1998-11-05",
+    "Height": 178,
+    "City": "Karnal",
+    "State": "HR"
+  },
+  {
+    "Name": "Sakshi",
+    "DOB": "1996-02-18",
+    "Height": 169,
+    "City": "Lucknow",
+    "State": "UP"
+  }
+]
